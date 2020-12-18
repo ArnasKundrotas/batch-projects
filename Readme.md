@@ -13,6 +13,13 @@ gm	    git merge <branch>
 	
 gchb	git checkout -b <branch>
 
+gigapu	git init -b main
+	    git add.
+	    git commit -m "Initial commit"
+	    git remote add origin <repo url>
+	    git push -u origin main
+
+
  // --- DOCKER	--- //
 
 d	docker
