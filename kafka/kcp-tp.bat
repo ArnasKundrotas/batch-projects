@@ -1,0 +1,1 @@
+@kafka-console-producer --broker-list localhost:9092 --topic %1 --producer-property %1 %2 %3 %4

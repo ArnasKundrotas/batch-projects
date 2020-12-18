@@ -1,0 +1,1 @@
+@docker volume inspect %1 %2

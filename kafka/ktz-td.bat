@@ -1,0 +1,1 @@
+@kafka-topics --zookeeper localhost:2181 --topic %1 --describe

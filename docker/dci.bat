@@ -1,0 +1,1 @@
+@docker container inspect %1 %2
